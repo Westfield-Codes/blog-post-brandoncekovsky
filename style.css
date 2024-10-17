@@ -21,3 +21,8 @@ html {
   padding-top:1em;
   color:firebrick;
 }
+
+img {
+	vertical-align:left;
+}
+
