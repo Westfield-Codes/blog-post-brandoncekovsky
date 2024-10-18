@@ -22,7 +22,12 @@ html {
   color:firebrick;
 }
 
-img {
-	vertical-align:left;
+table, th, td, tr{
+	border:1px solid black;
+	
+}
+
+.steps {
+	text-align:center;
 }
 
