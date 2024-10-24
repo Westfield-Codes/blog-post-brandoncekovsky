@@ -1,7 +1,7 @@
 html {
   height: 100%;
   width: 100%;
-	background-image:("coding.jpg");
+  background-image:("coding.jpg");
 }
 
 .bd-placeholder-img {
@@ -34,4 +34,7 @@ table, th, td, tr{
 
 img {
 	width:100%;
+}
+body {
+	font-style:normal;
 }
