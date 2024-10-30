@@ -38,3 +38,8 @@ img {
 p {
   font-style:normal;
 }
+
+.card mb-4 reply {
+  background-color:beige;
+}
+}
